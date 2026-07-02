@@ -11,7 +11,7 @@
      ═══════════════════════════════════════════════════════════ -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:0d1117&height=200&section=header&text=Nabeel%20N&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=8b949e&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:070f1e,100:10203e&height=220&section=header&text=Nabeel%20N&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=60&descSize=22&descColor=8b949e&animation=fadeIn&font=Geist"
     alt="Nabeel N — Python Full Stack Developer"
     width="100%"
   />
@@ -442,7 +442,7 @@ Personal portfolio website designed and built from scratch. Clean, minimal desig
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:080808,100:000000&height=100&section=footer&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:10203e,50:070f1e,100:000000&height=100&section=footer&animation=fadeIn"
     alt="footer"
     width="100%"
   />
