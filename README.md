@@ -373,29 +373,29 @@ Personal portfolio website designed and built from scratch. Clean, minimal desig
 <th align="left"><sub>Details</sub></th>
 </tr>
 <tr>
+<td><code>2021 – 2025</code></td>
+<td><strong>B.Tech — Computer Science & Engineering</strong><br/><sub>MES Institute of Technology and Management</sub></td>
+<td><sub>Bachelor of Technology in CSE — core CS foundations, algorithms, databases, and software engineering</sub></td>
+</tr>
+<tr>
+<td><code>2025</code></td>
+<td><strong>Python Full Stack Development</strong><br/><sub>ARCITE School of Data Science</sub></td>
+<td><sub>Intensive full-stack training — Python · Django · REST APIs · React · MySQL · Deployment</sub></td>
+</tr>
+<tr>
+<td><code>2026</code></td>
+<td><strong>Full-Stack Application</strong><br/><sub>Doctor Appointment Booking System</sub></td>
+<td><sub>End-to-end build — Python · Django REST Framework · React · MySQL · JWT Authentication</sub></td>
+</tr>
+<tr>
 <td><code>May 2026 →</code></td>
-<td><strong>Freelance Developer</strong><br/><sub>Immigration Hub NZ</sub></td>
-<td><sub>Production website for a NZ immigration consultancy — React · Tailwind CSS · Vercel · SEO</sub></td>
+<td><strong>Freelance Python Full Stack Developer</strong><br/><sub>Immigration Hub NZ</sub></td>
+<td><sub>Production website development and deployment for a NZ immigration consultancy — React · Tailwind CSS · Vercel</sub></td>
 </tr>
 <tr>
-<td><code>2025 – 2026</code></td>
-<td><strong>Full-Stack Application</strong><br/><sub>Doctor Appointment System</sub></td>
-<td><sub>End-to-end full-stack build — Django · DRF · React · MySQL · JWT Auth</sub></td>
-</tr>
-<tr>
-<td><code>2024 – 2025</code></td>
-<td><strong>Backend Specialization</strong><br/><sub>API Development</sub></td>
-<td><sub>Python · Django · REST API design · Authentication systems · Database modeling</sub></td>
-</tr>
-<tr>
-<td><code>2023 – 2024</code></td>
-<td><strong>Foundation</strong><br/><sub>Computer Science & Web</sub></td>
-<td><sub>Python fundamentals · Web development · HTML · CSS · JavaScript · SQL</sub></td>
-</tr>
-<tr>
-<td><code>2026 → </code></td>
-<td><strong>Learning Roadmap</strong><br/><sub>Expanding the stack</sub></td>
-<td><sub>PostgreSQL · Docker · FastAPI · AWS · System Design · Distributed Systems</sub></td>
+<td><code>2026 →</code></td>
+<td><strong>Open to Full-Time Opportunities</strong><br/><sub>Python Developer · Backend Developer · Full Stack Developer</sub></td>
+<td><sub>Available immediately for full-time, remote, and freelance roles</sub></td>
 </tr>
 </table>
 
