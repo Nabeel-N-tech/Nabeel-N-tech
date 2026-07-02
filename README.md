@@ -1,0 +1,460 @@
+<!-- ============================================================
+     NABEEL N — GitHub Profile README
+     Design System: Obsidian Precision (Stitch / Vercel / Linear)
+     Version: 2.0 — Refined Edition
+     Last Updated: July 2026
+     ============================================================ -->
+
+<!-- ═══════════════════════════════════════════════════════════
+     HERO — WAVING BANNER
+     ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Nabeel%20N&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=8b949e&animation=fadeIn"
+    alt="Nabeel N — Python Full Stack Developer"
+    width="100%"
+  />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════
+     HERO — PROFILE HEADSHOT
+     REPLACE: Upload your photo to your repo as assets/avatar.jpg
+     then change the src below to the raw GitHub URL.
+     Placeholder uses ui-avatars.com until replaced.
+     ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img
+    src="https://ui-avatars.com/api/?name=Nabeel+N&size=180&background=161b22&color=e6edf3&bold=true&font-size=0.40&rounded=true&length=2"
+    alt="Nabeel N — Profile Photo"
+    width="120"
+    height="120"
+    style="border-radius:50%;"
+  />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════
+     HERO — TYPING SVG (VALUE PROPOSITION)
+     ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=800&color=8b949e&center=true&vCenter=true&multiline=false&width=640&lines=Building+production-ready+web+applications.;Django+%C2%B7+React+%C2%B7+REST+APIs+%C2%B7+Clean+Architecture.;Open+to+Full-Time+%C2%B7+Remote+%C2%B7+Freelance+opportunities."
+    alt="Typing SVG"
+  />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════
+     HERO — STATUS + LOCATION BADGES
+     ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20Immediately-3fb950?style=flat-square&labelColor=161b22&color=3fb950" alt="Available Immediately" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-58a6ff?style=flat-square&labelColor=161b22&color=58a6ff" alt="Kerala, India" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Full--Time%20%C2%B7%20Remote%20%C2%B7%20Freelance-a371f7?style=flat-square&labelColor=161b22&color=a371f7" alt="Open to Work" />
+</p>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     HERO — CTA BUTTONS (5 buttons incl. Resume)
+     ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://nabeeln-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-nabeeln--dev.vercel.app-e6edf3?style=for-the-badge&labelColor=0d1117&color=21262d&logo=vercel&logoColor=e6edf3" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/nabeel-n-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-nabeel--n--dev-e6edf3?style=for-the-badge&labelColor=0d1117&color=21262d&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Nabeel-N-tech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Nabeel--N--tech-e6edf3?style=for-the-badge&labelColor=0d1117&color=21262d&logo=github&logoColor=e6edf3" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:nabeeln1230@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nabeeln1230%40gmail.com-e6edf3?style=for-the-badge&labelColor=0d1117&color=21262d&logo=gmail&logoColor=ea4335" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://nabeeln-dev.vercel.app/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-e6edf3?style=for-the-badge&labelColor=0d1117&color=3fb950&logo=adobeacrobatreader&logoColor=e6edf3" alt="Resume" />
+  </a>
+</p>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     NAVIGATION — Clickable Anchor Links
+     ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+  <a href="#-about"><img src="https://img.shields.io/badge/About-8b949e?style=flat-square&labelColor=21262d&color=21262d" alt="About" /></a>&nbsp;
+  <a href="#-featured-work"><img src="https://img.shields.io/badge/Projects-8b949e?style=flat-square&labelColor=21262d&color=21262d" alt="Projects" /></a>&nbsp;
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-8b949e?style=flat-square&labelColor=21262d&color=21262d" alt="Stack" /></a>&nbsp;
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/Analytics-8b949e?style=flat-square&labelColor=21262d&color=21262d" alt="Analytics" /></a>&nbsp;
+  <a href="#-timeline"><img src="https://img.shields.io/badge/Timeline-8b949e?style=flat-square&labelColor=21262d&color=21262d" alt="Timeline" /></a>&nbsp;
+  <a href="#-contact"><img src="https://img.shields.io/badge/Contact-8b949e?style=flat-square&labelColor=21262d&color=21262d" alt="Contact" /></a>
+</div>
+
+<div align="center">
+  <sub><a href="#-about">About</a> &nbsp;·&nbsp; <a href="#-featured-work">Projects</a> &nbsp;·&nbsp; <a href="#-tech-stack">Stack</a> &nbsp;·&nbsp; <a href="#-github-analytics">Analytics</a> &nbsp;·&nbsp; <a href="#-timeline">Timeline</a> &nbsp;·&nbsp; <a href="#-contact">Contact</a></sub>
+</div>
+
+<br /><br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 01 — ABOUT
+     ═══════════════════════════════════════════════════════════ -->
+
+## ◆ About
+
+<table width="100%">
+<tr>
+<td valign="top" width="56%">
+
+### Python Full Stack Developer
+
+I build production-ready web applications — from backend architecture through to frontend deployment.
+
+My work spans **Django REST APIs**, **React interfaces**, and **cloud deployments** using Vercel and Render. I care deeply about clean code, scalable architecture, and exceptional developer experience.
+
+Currently freelancing for international clients while continuing to sharpen my craft in full-stack Python development.
+
+<br />
+
+**Current focus**
+- Delivering [Immigration Hub NZ](https://immigrationhubnz.com) — a production consultancy platform
+- Deepening expertise in system design and distributed architectures
+
+**Learning next**
+- PostgreSQL · Docker · FastAPI · AWS Fundamentals
+
+</td>
+<td valign="top" width="44%">
+
+```python
+class NabeelN:
+    name     = "Nabeel N"
+    title    = "Python Full Stack Developer"
+    location = "Kerala, India"
+
+    stack = {
+        "backend":   ["Django", "DRF", "REST APIs"],
+        "frontend":  ["React", "Tailwind CSS"],
+        "databases": ["MySQL"],
+        "tools":     ["Git", "Vercel", "Render"],
+        "auth":      ["JWT"],
+    }
+
+    status   = "Available Immediately"
+    open_to  = ["Full-Time", "Remote", "Freelance"]
+
+    def mission(self):
+        return "Build things that matter."
+```
+
+</td>
+</tr>
+</table>
+
+<br /><br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 02 — FEATURED WORK
+     All 3 projects consolidated into one premium section.
+     ═══════════════════════════════════════════════════════════ -->
+
+## ◆ Featured Work
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**01 &nbsp;—&nbsp; Doctor Appointment System**
+
+Full-stack booking platform connecting patients and healthcare providers. Clean REST API backend paired with a responsive React frontend.
+
+- JWT authentication with refresh token rotation
+- Django REST Framework with serializer-based API
+- Patient and doctor role dashboards
+- MySQL relational schema design
+
+<sub>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</sub>
+
+<br /><br />
+
+<a href="https://github.com/Nabeel-N-tech/Doctor-appointment-system">
+  <img src="https://img.shields.io/badge/Repository-View%20Code-e6edf3?style=flat-square&logo=github&logoColor=e6edf3&labelColor=21262d&color=21262d" alt="Repository" />
+</a>
+
+</td>
+<td valign="top" width="50%">
+
+**02 &nbsp;—&nbsp; Immigration Hub NZ** &nbsp;<img src="https://img.shields.io/badge/Live-3fb950?style=flat-square&labelColor=161b22&color=3fb950" alt="Live" />
+
+Production website for a New Zealand immigration consultancy. Delivered end-to-end — from client brief to zero-downtime Vercel deployment.
+
+- Responsive React + Tailwind CSS interface
+- SEO-friendly architecture and meta optimization
+- Vercel deployment pipeline
+- Direct client collaboration across timezones
+
+<sub>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</sub>
+
+<br /><br />
+
+<a href="https://immigrationhubnz.com" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Site-Visit-e6edf3?style=flat-square&logo=vercel&logoColor=e6edf3&labelColor=21262d&color=21262d" alt="Live Site" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**03 &nbsp;—&nbsp; Developer Portfolio** &nbsp;<img src="https://img.shields.io/badge/Live-3fb950?style=flat-square&labelColor=161b22&color=3fb950" alt="Live" />
+
+Personal portfolio website designed and built from scratch. Clean, minimal design with smooth interactions — the single source of truth for my professional brand.
+
+- Minimal, performance-first design
+- Fully responsive across all viewports
+- Hosted on Vercel with CI/CD from GitHub
+
+<sub>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</sub>
+
+<br /><br />
+
+<a href="https://nabeeln-dev.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Site-nabeeln--dev.vercel.app-e6edf3?style=flat-square&logo=vercel&logoColor=e6edf3&labelColor=21262d&color=21262d" alt="Portfolio" />
+</a>
+
+</td>
+<td valign="top" width="50%">
+
+<br />
+
+> *More projects coming soon.*
+>
+> In the meantime, explore my repositories below or visit the portfolio for a curated overview.
+
+<br />
+
+<a href="https://github.com/Nabeel-N-tech?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/All%20Repositories-Browse%20GitHub-e6edf3?style=flat-square&logo=github&logoColor=e6edf3&labelColor=21262d&color=21262d" alt="All Repos" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br /><br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 03 — TECH STACK
+     ═══════════════════════════════════════════════════════════ -->
+
+## ◆ Tech Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-161b22?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+</td>
+<td valign="top" width="25%">
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MySQL WB](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br /><br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 04 — GITHUB ANALYTICS
+     Streamlined: Stats + Languages side-by-side, then graph.
+     Streak removed to reduce dashboard overload.
+     ═══════════════════════════════════════════════════════════ -->
+
+## ◆ GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nabeel-N-tech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="GitHub Stats"
+    height="180"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabeel-N-tech&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nabeel-N-tech&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=161b22&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Nabeel%20N"
+    alt="Contribution Activity Graph"
+    width="94%"
+  />
+</p>
+
+<br /><br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 05 — TIMELINE
+     ═══════════════════════════════════════════════════════════ -->
+
+## ◆ Timeline
+
+<table width="100%">
+<tr>
+<th align="left" width="130"><sub>Period</sub></th>
+<th align="left" width="220"><sub>Milestone</sub></th>
+<th align="left"><sub>Details</sub></th>
+</tr>
+<tr>
+<td><code>May 2026 →</code></td>
+<td><strong>Freelance Developer</strong><br/><sub>Immigration Hub NZ</sub></td>
+<td><sub>Production website for a NZ immigration consultancy — React · Tailwind CSS · Vercel · SEO</sub></td>
+</tr>
+<tr>
+<td><code>2025 – 2026</code></td>
+<td><strong>Full-Stack Application</strong><br/><sub>Doctor Appointment System</sub></td>
+<td><sub>End-to-end full-stack build — Django · DRF · React · MySQL · JWT Auth</sub></td>
+</tr>
+<tr>
+<td><code>2024 – 2025</code></td>
+<td><strong>Backend Specialization</strong><br/><sub>API Development</sub></td>
+<td><sub>Python · Django · REST API design · Authentication systems · Database modeling</sub></td>
+</tr>
+<tr>
+<td><code>2023 – 2024</code></td>
+<td><strong>Foundation</strong><br/><sub>Computer Science & Web</sub></td>
+<td><sub>Python fundamentals · Web development · HTML · CSS · JavaScript · SQL</sub></td>
+</tr>
+<tr>
+<td><code>2026 → </code></td>
+<td><strong>Learning Roadmap</strong><br/><sub>Expanding the stack</sub></td>
+<td><sub>PostgreSQL · Docker · FastAPI · AWS · System Design · Distributed Systems</sub></td>
+</tr>
+</table>
+
+<br /><br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 06 — CONTACT
+     ═══════════════════════════════════════════════════════════ -->
+
+## ◆ Contact
+
+<p align="center">
+  I'm <strong>available immediately</strong> for full-time roles, remote contracts, and freelance projects.<br />
+  Reach me via <a href="mailto:nabeeln1230@gmail.com"><strong>email</strong></a> or <a href="https://linkedin.com/in/nabeel-n-dev"><strong>LinkedIn</strong></a> — I respond within 24 hours.
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://nabeeln-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-e6edf3?style=for-the-badge&logo=vercel&logoColor=e6edf3&labelColor=0d1117&color=161b22" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nabeel-n-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0a66c2" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nabeeln1230@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=ea4335" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nabeel-N-tech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-e6edf3?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0d1117&color=21262d" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nabeeln-dev.vercel.app/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-3fb950?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0d1117&color=3fb950" alt="Resume" />
+  </a>
+</p>
+
+<br /><br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     FOOTER — BOTTOM WAVE
+     ═══════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer&animation=fadeIn"
+    alt="footer"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Designed with precision &nbsp;·&nbsp; Built with purpose &nbsp;·&nbsp;
+    <a href="https://nabeeln-dev.vercel.app">nabeeln-dev.vercel.app</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/Nabeel-N-tech">github.com/Nabeel-N-tech</a>
+  </sub>
+</p>
