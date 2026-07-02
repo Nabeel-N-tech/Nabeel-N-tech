@@ -121,7 +121,7 @@ Currently freelancing for international clients while continuing to sharpen my c
 <br />
 
 **Current focus**
-- Delivering [Immigration Hub NZ](https://immigrationhubnz.com) — a production consultancy platform
+- Delivering [Immigration Hub NZ](https://immigrationhub.nz/) — a production consultancy platform
 - Deepening expertise in system design and distributed architectures
 
 **Learning next**
@@ -211,7 +211,7 @@ Production website for a New Zealand immigration consultancy. Delivered end-to-e
 
 <br /><br />
 
-<a href="https://immigrationhubnz.com" target="_blank">
+<a href="https://immigrationhub.nz/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Site-Visit-e6edf3?style=flat-square&logo=vercel&logoColor=e6edf3&labelColor=21262d&color=21262d" alt="Live Site" />
 </a>
 
