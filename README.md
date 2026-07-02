@@ -1,8 +1,8 @@
 <!-- ============================================================
      NABEEL N — GitHub Profile README
      Design System: Obsidian Precision (Stitch / Vercel / Linear)
-     Theme: Premium Pure Black Edition
-     Version: 3.0
+     Theme: Premium Black background with Colorful Icons
+     Version: 4.0
      Last Updated: July 2026
      ============================================================ -->
 
@@ -57,7 +57,7 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     HERO — CTA BUTTONS (Pure Black Vercel Aesthetic)
+     HERO — CTA BUTTONS (Pure Black Background with Brand Colored Icons)
      ═══════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://nabeeln-dev.vercel.app" target="_blank">
@@ -65,7 +65,7 @@
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/nabeel-n-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-nabeel--n--dev-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-nabeel--n--dev-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Nabeel-N-tech" target="_blank">
@@ -73,11 +73,11 @@
   </a>
   &nbsp;
   <a href="mailto:nabeeln1230@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nabeeln1230%40gmail.com-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=gmail&logoColor=ffffff" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-nabeeln1230%40gmail.com-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   &nbsp;
   <a href="https://nabeeln-dev.vercel.app/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download%20PDF-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=adobeacrobatreader&logoColor=ffffff" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=adobeacrobatreader&logoColor=F40F12" alt="Resume" />
   </a>
 </p>
 
@@ -178,11 +178,11 @@ Full-stack booking platform connecting patients and healthcare providers. Clean 
 - MySQL relational schema design
 
 <sub>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-000000?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=44b78b" />
+  <img src="https://img.shields.io/badge/DRF-000000?style=flat-square&logo=django&logoColor=ff1709" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
 </sub>
 
 <br /><br />
@@ -204,9 +204,9 @@ Production website for a New Zealand immigration consultancy. Delivered end-to-e
 - Direct client collaboration across timezones
 
 <sub>
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff" />
 </sub>
 
 <br /><br />
@@ -234,9 +234,9 @@ Personal portfolio website designed and built from scratch. Clean, minimal desig
 - Hosted on Vercel with CI/CD from GitHub
 
 <sub>
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff" />
 </sub>
 
 <br /><br />
@@ -278,49 +278,49 @@ Personal portfolio website designed and built from scratch. Clean, minimal desig
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
 
 </td>
 <td valign="top" width="25%">
 
 **Backend**
 
-![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-000000?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=44b78b)
+![DRF](https://img.shields.io/badge/DRF-000000?style=flat-square&logo=django&logoColor=ff1709)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=d63aff)
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
 
 </td>
 <td valign="top" width="25%">
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 
 **Deployment**
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=46E3B7)
 
 </td>
 <td valign="top" width="25%">
 
 **Tooling**
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
-![MySQL WB](https://img.shields.io/badge/MySQL%20Workbench-000000?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37)
+![MySQL WB](https://img.shields.io/badge/MySQL%20Workbench-000000?style=flat-square&logo=mysql&logoColor=4479A1)
 
 </td>
 </tr>
@@ -418,11 +418,11 @@ Personal portfolio website designed and built from scratch. Clean, minimal desig
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/nabeel-n-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000&color=000000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000&color=000000" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nabeeln1230@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-ffffff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000&color=000000" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000&color=000000" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Nabeel-N-tech" target="_blank">
@@ -430,7 +430,7 @@ Personal portfolio website designed and built from scratch. Clean, minimal desig
   </a>
   &nbsp;&nbsp;
   <a href="https://nabeeln-dev.vercel.app/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-ffffff?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffffff&labelColor=000000&color=000000" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-Download-ffffff?style=for-the-badge&logo=adobeacrobatreader&logoColor=F40F12&labelColor=000000&color=000000" alt="Resume" />
   </a>
 </p>
 
