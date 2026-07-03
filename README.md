@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/badge/Email-nabeeln1230%40gmail.com-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://nabeeln-dev.vercel.app/resume.pdf" target="_blank">
+  <a href="https://docs.google.com/document/d/1csLY3mK6CC9H_Rbbi9rpna2t7UYLI1h_/export?format=pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download%20PDF-ffffff?style=for-the-badge&labelColor=000000&color=000000&logo=adobeacrobatreader&logoColor=F40F12" alt="Resume" />
   </a>
 </p>
@@ -429,7 +429,7 @@ Personal portfolio website designed and built from scratch. Clean, minimal desig
     <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000&color=000000" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://nabeeln-dev.vercel.app/resume.pdf" target="_blank">
+  <a href="https://docs.google.com/document/d/1csLY3mK6CC9H_Rbbi9rpna2t7UYLI1h_/export?format=pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-ffffff?style=for-the-badge&logo=adobeacrobatreader&logoColor=F40F12&labelColor=000000&color=000000" alt="Resume" />
   </a>
 </p>
